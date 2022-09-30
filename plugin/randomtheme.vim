@@ -348,13 +348,19 @@ endif
 " @see :help setting-guifont
 " @params {string} guifont  font:h14 格式
 function! s:SetGuiFont(guifont)
+    let splitted = split(a:guifont, ':h')
+    if len(splitted) != 2
+        return
+    endif
+    let font = splitted[0]
+    let size = splitted[1]
+    if has('x11')
+        let g:favorite_gui_font = font . '\ ' . size
+    else
+        let g:favorite_gui_font = font . ':h' . size
+    endif
+
     if has('gui_running')
-        let splitted = split(a:guifont, ':h')
-        if len(splitted) != 2
-            return
-        endif
-        let font = splitted[0]
-        let size= splitted[1]
         " for ubuntu vim-gonme
         if has('x11')
             let commandStr = 'set guifont=' . font . '\ ' . size
@@ -363,6 +369,9 @@ function! s:SetGuiFont(guifont)
             let commandStr = 'set guifont=' . font . ':h' . size
             execute commandStr
         endif
+    elseif has('nvim') && exists('g:GuiLoaded')
+        echo g:favorite_gui_font
+        execute ':GuiFont! ' . g:favorite_gui_font
     endif
 endfunction
 
