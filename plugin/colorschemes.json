@@ -22,7 +22,7 @@
   },
   {
     "name": "PaperColor",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "papercolor"
@@ -113,7 +113,7 @@
   },
   {
     "name": "deus",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "deus"
@@ -191,7 +191,7 @@
   {
     "name": "gruvbox",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": "gruvbox"
   },
@@ -205,27 +205,27 @@
   {
     "name": "hybrid",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": "hybrid"
   },
   {
     "name": "hybrid_material",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "hybrid_reverse",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "iceberg",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "iceberg"
@@ -253,7 +253,7 @@
   },
   {
     "name": "lucius",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "lucius"
@@ -261,7 +261,7 @@
   {
     "name": "materialbox",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": "materialbox"
   },
@@ -288,14 +288,14 @@
   },
   {
     "name": "molokayo",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "mountaineer-grey",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -303,13 +303,13 @@
   {
     "name": "mountaineer-light",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "mountaineer",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -380,13 +380,13 @@
   {
     "name": "paramount",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "parsec",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -415,13 +415,13 @@
   {
     "name": "rdark-terminal2",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "scheakur",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -429,13 +429,13 @@
   {
     "name": "seoul256-light",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
-    "airline": ""
+    "airline": "seoul256"
   },
   {
     "name": "seoul256",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "seoul256"
@@ -450,41 +450,55 @@
   {
     "name": "snow",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "solarized8",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "solarized8_flat",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "solarized8_high",
     "light": 1,
-    "dark": 1,
+    "dark": 0,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "solarized8_low",
     "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "solarized8_dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "solarized8_dark_flat",
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "sonokai",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "sonokai"
@@ -512,14 +526,14 @@
   },
   {
     "name": "stellarized",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
     "name": "sunbather",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -547,7 +561,7 @@
   },
   {
     "name": "two-firewatch",
-    "light": 1,
+    "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
