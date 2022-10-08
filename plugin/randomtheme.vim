@@ -189,9 +189,9 @@ endfunction
 
 " @param {string} name
 " @param {'light'|'dark'|''} mode
-function! s:SetTheme(name, mode)
+function! s:SetTheme(name, mode, ColorThemes)
   let found = {}
-  for item in s:allColorThemes
+  for item in a:ColorThemes "s:allColorThemes
     if item.name ==# a:name
       let found = item
       break
@@ -228,6 +228,8 @@ function! s:SetTheme(name, mode)
 
       if airlineTheme !=# ''
         execute ':AirlineTheme '. airlineTheme
+      "else
+        "execute ':AirlineTheme random'
       endif
   endif
 endfunction
@@ -258,7 +260,7 @@ function! s:RandomAll(mode)
         echomsg 'Failed to find a matched scheme'
     else
         let s:allColorThemeIndex = foundIndex + 1
-        call s:SetTheme(foundName, a:mode)
+        call s:SetTheme(foundName, a:mode, s:allColorThemes)
     endif
 endfunction
 
@@ -319,11 +321,12 @@ function! s:RandomFavorite(mode)
     let foundIndex = get(found, 'index')
     let foundName = get(found, 'name', '')
 
+
     if foundIndex == -1 || foundName ==# ''
         echomsg 'Failed to find a matched scheme'
     else
         let s:favoriteColorThemeIndex = foundIndex + 1
-        execute 'colo ' . foundName
+        call s:SetTheme(foundName, a:mode, s:favoriteColorThemes)
     endif
 endfunction
 
@@ -403,7 +406,7 @@ function s:RandomTheme(...)
     else
       call s:ReadDBIfNeeded()
       if index(s:allColorSchemeNames, mode) > -1
-        call s:SetTheme(mode, '')
+        call s:SetTheme(mode, '', s:allColorThemes)
         call s:SwitchFont()
       else
         echo 'Failed to find color scheme: ' . mode
@@ -428,7 +431,7 @@ function s:RandomFavoriteTheme(...)
       call s:SwitchFont()
     else
       if index(s:favoriteColorThemeNames, mode) > -1
-        call s:SetTheme(mode, '')
+        call s:SetTheme(mode, '', s:allColorThemes)
         call s:SwitchFont()
       else
         echo 'Failed to find color scheme in favorite: ' . mode

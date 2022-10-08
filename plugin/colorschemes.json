@@ -1,5 +1,33 @@
 [
   {
+    "name": "0x7A69_dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "1989",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "256-grayvim",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "256-jungle",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "256_noir",
     "light": 0,
     "dark": 1,
@@ -7,25 +35,25 @@
     "airline": ""
   },
   {
-    "name": "OceanicNext",
+    "name": "3dglasses",
     "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
-    "airline": "oceanicnext"
+    "airline": ""
   },
   {
-    "name": "OceanicNextLight",
-    "light": 1,
-    "dark": 0,
-    "commandBeforeColo": "",
-    "airline": "oceanicnextlight"
-  },
-  {
-    "name": "PaperColor",
+    "name": "abbott",
     "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
-    "airline": "papercolor"
+    "airline": ""
+  },
+  {
+    "name": "abra",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "abstract",
@@ -35,6 +63,62 @@
     "airline": "abstract"
   },
   {
+    "name": "abyss",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "adam",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "adaryn",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "adobe",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "adrian",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "advantage",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "adventurous",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "af",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "afterglow",
     "light": 0,
     "dark": 1,
@@ -42,11 +126,25 @@
     "airline": "afterglow"
   },
   {
+    "name": "aiseered",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "alduin",
     "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "alduin"
+  },
+  {
+    "name": "ancient",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "anderson",
@@ -63,11 +161,53 @@
     "airline": "angr"
   },
   {
+    "name": "anotherdark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ansi_blows",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "antares",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "apprentice",
     "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "apprentice"
+  },
+  {
+    "name": "aqua",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "aquamarine",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "arcadia",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "archery",
@@ -77,8 +217,907 @@
     "airline": "archery"
   },
   {
+    "name": "argonaut",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ashen",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": "base16_atelier_seaside_light"
+  },
+  {
+    "name": "asmanian2",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "asmanian_blood",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "asmdev",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "asmdev2",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "astronaut",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "asu1dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_CaveDark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_atelier_cave"
+  },
+  {
+    "name": "Atelier_CaveLight",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_atelier_cave"
+  },
+  {
+    "name": "Atelier_DuneDark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_DuneLight",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_EstuaryDark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_EstuaryLight",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_ForestDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_ForestLight",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_HeathDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_HeathLight",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_LakesideDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_LakesideLight",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_PlateauDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_PlateauLight",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_SavannaDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_SavannaLight",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_SeasideDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_SeasideLight",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_SulphurpoolDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Atelier_SulphurpoolLight",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "atom",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "aurora",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "automation",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "autumn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "autumnleaf",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ayu_dark",
+    "override": "ayu",
+    "light": 0,
+    "dark": 1,
+    "airline": "ayu",
+    "commandBeforeColo": "let g:ayucolor=\"dark\""
+  },
+  {
+    "name": "ayu_light",
+    "override": "ayu",
+    "light": 1,
+    "dark": 0,
+    "airline": "ayu",
+    "commandBeforeColo": "let g:ayucolor=\"light\""
+  },
+  {
+    "name": "ayu_mirage",
+    "override": "ayu",
+    "light": 0,
+    "dark": 1,
+    "airline": "ayu",
+    "commandBeforeColo": "let g:ayucolor=\"mirage\""
+  },
+  {
+    "name": "babymate256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "badwolf",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bandit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-ateliercave",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-atelierdune",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-atelierestuary",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-atelierforest",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-atelierheath",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-atelierlakeside",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-atelierplateau",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-ateliersavanna",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-atelierseaside",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-ateliersulphurpool",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "base16-railscasts",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "basic",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "basic-dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "basic-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "baycomb",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bayQua",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bclear",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "beachcomber",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "beauty256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "beekai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "behelit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "benlight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Benokai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bensday",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "billw",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "biogoo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "birds-of-paradise",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bitterjug",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Black",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "black_angus",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blackbeauty",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blackboard",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blackdust",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blacklight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "BlackSea",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blaquemagick",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blazer",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Blue2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bluechia",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bluedrake",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bluegreen",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bluenes",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blueprint",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blues",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blueshift",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bluez",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "blugrine",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bluish",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bmichaelsen",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "boa",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bocau",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bog",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "boltzmann",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "borland",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "breeze",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "breezy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "brighton",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "briofita",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "broduo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "brogrammer",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_brogrammer"
+  },
+  {
+    "name": "brookstream",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "brown",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bubblegum",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bubblegum-256-dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bubblegum-256-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "buddy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "burnttoast256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "busierbee",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "busybee",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "buttercream",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bvemu",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "bw",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "c",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "c16gui",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "C64",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cabin",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cake",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cake16",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "calmar256-dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "calmar256-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "camo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "campfire",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "candy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "candycode",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "candyman",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "CandyPaper",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "caramel",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -98,6 +1137,55 @@
     "airline": ""
   },
   {
+    "name": "carrot",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "carvedwood",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "carvedwoodcool",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cascadia",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "celtics_away",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cgpro",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "chalkboard",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "challenger_deep",
     "light": 0,
     "dark": 1,
@@ -105,8 +1193,673 @@
     "airline": "challenger_deep"
   },
   {
+    "name": "chance-of-storm",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "charged-256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "charon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Chasing_Logic",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "chela_light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cherryblossom",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "chlordane",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "chocolate",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ChocolateLiquor",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ChocolatePapaya",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "chroma",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "chrysoprase",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "clarity",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cleanphp",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cleanroom",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "clearance",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cloudy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "clue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cobalt",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cobalt2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cobaltish",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "coda",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "codeblocks_dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "codeburn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "codedark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "CodeFactoryv3",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "codeschool",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_codeschool"
+  },
+  {
+    "name": "coffee",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "coldgreen",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorer",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorful",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorful256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorsbox-faff",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorsbox-greenish",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorsbox-material",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorsbox-stblue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorsbox-stbright",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorsbox-steighties",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorsbox-stnight",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "colorzone",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "contrastneed",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "contrasty",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cool",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "corn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "corporation",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "crayon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "crt",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "crunchbang",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cthulhian",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "custom",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "cyberpunk",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "d8g_01",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "d8g_02",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "d8g_03",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "d8g_04",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dante",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Dark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dark-ruby",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Dark2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkblack",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkblue",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkblue2",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkbone",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkburn",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "DarkDefault",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkdevel",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkdot",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkeclipse",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darker-robin",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkerdesert",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkglass",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkocean",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkrobot",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkslategray",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkspectrum",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darktango",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkZ",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darkzen",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "darth",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dawn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "deep-space",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "deepsea",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "default",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_default"
+  },
+  {
+    "name": "delek",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "delphi",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "denim",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "derefined",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "desert",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "desert256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "desert256v2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "desertedocean",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "desertedoceanburnt",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "desertEx",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "desertink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "despacio",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "detailed",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -119,8 +1872,631 @@
     "airline": "deus"
   },
   {
+    "name": "Dev_Delight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "devbox-dark-256",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "DevC++",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "deveiate",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "developer",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Dim",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Dim2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "DimBlue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "DimGreen",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "DimGreens",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "DimGrey",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "DimRed",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "DimSlate",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "diokai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "disciple",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "distill",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "distinguished",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "django",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "dogrun",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "donbass",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "donttouchme",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "doorhinge",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "doriath",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dracula",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_dracula"
+  },
+  {
+    "name": "dracula_bold",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dual",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dull",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkcave",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkdesert",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkearth",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkforest",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkheath",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darklake",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkmeadow",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkpark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkpool",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darksea",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "duotone-darkspace",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dusk",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dw_blue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dw_cyan",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dw_green",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dw_orange",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dw_purple",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dw_red",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dw_yellow",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "dzo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "earendel",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "earth",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "earthburn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "eclipse",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "eclm_wombat",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ecostation",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "editplus",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "edo_sea",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ego",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "eink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ekinivim",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ekvoli",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "elda",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "eldar",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "elflord",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "elise",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "elisex",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "elrodeo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "elrond",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "emacs",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "enigma",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "enzyme",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "erez",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "eva",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "eva01",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "eva01-LCL",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "evening",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "evening1",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "evokai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "evolution",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fahrenheit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fairyfloss",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "falcon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "far",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "felipec",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "feral",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fight-in-the-shade",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fine_blue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "firewatch",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "flatcolor",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "flatland",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "flatlandia",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -140,8 +2516,43 @@
     "airline": ""
   },
   {
+    "name": "flattown",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "flattr",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "flatui",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fnaqevan",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "focuspoint",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fog",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -168,11 +2579,200 @@
     "airline": ""
   },
   {
+    "name": "fokus",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "forneus",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "foursee",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "freya",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "frood",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "frozen",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fruidle",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fruit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fruity",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fu",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "fx",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "garden",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "gardener",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "gemcolors",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "genericdc",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "genericdc-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "gentooish",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "getafe",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "getfresh",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ghostbuster",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "github",
     "light": 1,
     "dark": 0,
     "commandBeforeColo": "",
     "airline": "github"
+  },
+  {
+    "name": "gobo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "golded",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "golden",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "goldenrod",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "goodwolf",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "google",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_google"
+  },
+  {
+    "name": "gor",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "gotham",
@@ -189,15 +2789,358 @@
     "airline": "gotham256"
   },
   {
-    "name": "gruvbox",
+    "name": "gothic",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "grape",
     "light": 1,
-    "dark": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "gravity",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "grayorange",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "graywh",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "grb256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Green",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "greens",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "greenvision",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "greenwint",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "grey2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "greyblue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "greygull",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "grishin",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "gruvbox",
+    "light": 0,
+    "dark": 1,
     "commandBeforeColo": "",
     "airline": "gruvbox"
   },
   {
+    "name": "gryffin",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "guardian",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "guepardo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "h80",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "habiLight",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "happy_hacking",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "harlequin",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "heliotrope",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hemisu",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "herald",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "heroku",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "heroku-terminal",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "herokudoc",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "herokudoc-gvim",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhazure",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhdblue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhdcyan",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhdgray",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhdgreen",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhdmagenta",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhdred",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhdyellow",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhorange",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhpink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhspring",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhteal",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hhviolet",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "highlighter_term",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "highlighter_term_bright",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "highwayman",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hilal",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "holokai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hornet",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "horseradish256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hotpot",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "hual",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -208,6 +3151,13 @@
     "dark": 0,
     "commandBeforeColo": "",
     "airline": "hybrid"
+  },
+  {
+    "name": "hybrid-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "hybrid_material",
@@ -224,11 +3174,172 @@
     "airline": ""
   },
   {
+    "name": "hydrangea",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "iangenzo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ibmedit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "icansee",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "iceberg",
     "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "iceberg"
+  },
+  {
+    "name": "immortals",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "impact",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "impactG",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "impactjs",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "industrial",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "industry",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ingretu",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "inkpot",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "inori",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ir_black",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ironman",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "itg_flat",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "itg_flat_transparent",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "itsasoa",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "jaime",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "jammy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "janah",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "japanesque",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "jelleybeans",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "jellybeans",
@@ -238,9 +3349,394 @@
     "airline": "jellybeans"
   },
   {
+    "name": "jellygrass",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "jellyx",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "jhdark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "jhlight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "jiks",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "jitterbug",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kalahari",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kalisi",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kalt",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kaltex",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kate",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kellys",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "khaki",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kib_darktango",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kib_plastic",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kings-away",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kiss",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kkruby",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "koehler",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kolor",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "kolor"
+  },
+  {
+    "name": "kruby",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "kyle",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "laederon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lakers_away",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "landscape",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lanox",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lanzarotta",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lapis256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "last256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "late_evening",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lazarus",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "legiblelight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "leglight2",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "leo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "less",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lettuce",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "leya",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Light",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lightcolors",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "LightDefault",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "LightDefaultGrey",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "lightning",
     "light": 1,
     "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "LightTan",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "LightYellow",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lilac",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lilydjwg_dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lilydjwg_green",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lilypink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lingodirector",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "liquidcarbon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "literal_tango",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lizard",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lizard256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lodestone",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "loogica",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "louver",
+    "light": 1,
+    "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
   },
@@ -259,15 +3755,253 @@
     "airline": "lucius"
   },
   {
-    "name": "materialbox",
+    "name": "luinnar",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lumberjack",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "luna",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "luna"
+  },
+  {
+    "name": "luna-term",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lxvc",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "lyla",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mac_classic",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "macvim-light",
     "light": 1,
     "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "made_of_code",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "madeofcode",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "magellan",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "magicwb",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mango",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "manuscript",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "manxome",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "marklar",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "maroloccio",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "maroloccio2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "maroloccio3",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mars",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "martin_krischik",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "material",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_material"
+  },
+  {
+    "name": "material-theme",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "materialbox",
+    "light": 0,
+    "dark": 1,
     "commandBeforeColo": "",
     "airline": "materialbox"
   },
   {
+    "name": "materialtheme",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "matrix",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "maui",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mayansmoke",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mdark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mellow",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "messy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "meta5",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "metacosm",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "midnight",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "miko",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "minimal",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -280,6 +4014,48 @@
     "airline": "minimalist"
   },
   {
+    "name": "mint",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mizore",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mod8",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mod_tcsoft",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mohammad",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mojave",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "molokai",
     "light": 0,
     "dark": 1,
@@ -287,7 +4063,168 @@
     "airline": "molokai"
   },
   {
+    "name": "molokai_dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "molokayo",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "monoacc",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "monochrome",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Monokai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_monokai"
+  },
+  {
+    "name": "monokai-chris",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "monokai-phoenix",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "monokain",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "montz",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "moody",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "moonshine",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "moonshine_lowcontrast",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "moonshine_minimal",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mophiaDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mophiaSmoke",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mopkai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "more",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "moria",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "moriarty",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "morning",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "moss",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "motus",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "MountainDew",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mountaineer",
     "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
@@ -308,8 +4245,365 @@
     "airline": ""
   },
   {
-    "name": "mountaineer",
+    "name": "mourning",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mrkn256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mrpink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mud",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "muon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "murphy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mushroom",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mustang",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "mythos",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "native",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nature",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "navajo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "navajo-night",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nazca",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nedit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nedit2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nefertiti",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neodark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neonwave",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nerv-ous",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nes",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nets-away",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neuromancer",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neutron",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neverland",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neverland-darker",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neverland2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neverland2-darker",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "neverness",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nevfn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "new-railscasts",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "newspaper",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "newsprint",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nicotine",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "night",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "night_vision",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nightflight",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nightflight2",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nightshade",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nightshade_print",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nightshimmer",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nightsky",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nightVision",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nightwish",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "no_quarter",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "noclown",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nocturne",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nofrils-acme",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nofrils-dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nofrils-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nofrils-sepia",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -322,6 +4616,90 @@
     "airline": "nord"
   },
   {
+    "name": "nordisk",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "northland",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "northpole",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "northsky",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "norwaytoday",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nour",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "nuvola",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "obsidian",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "obsidian2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "oceanblack",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "oceanblack256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "oceandeep",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "oceanic_material",
     "light": 0,
     "dark": 1,
@@ -329,8 +4707,36 @@
     "airline": ""
   },
   {
-    "name": "one-dark",
+    "name": "OceanicNext",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "oceanicnext"
+  },
+  {
+    "name": "OceanicNextLight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": "oceanicnextlight"
+  },
+  {
+    "name": "oceanlight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "off",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "olive",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -341,6 +4747,13 @@
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "one"
+  },
+  {
+    "name": "one-dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "onedark",
@@ -364,6 +4777,13 @@
     "airline": "onehalflight"
   },
   {
+    "name": "orange",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "orange-moon",
     "light": 0,
     "dark": 1,
@@ -376,6 +4796,62 @@
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "orbital"
+  },
+  {
+    "name": "osx_like",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "otaku",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "oxeded",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pablo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pacific",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "paintbox",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "PapayaWhip",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "PaperColor",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "papercolor"
   },
   {
     "name": "paramount",
@@ -392,8 +4868,225 @@
     "airline": ""
   },
   {
+    "name": "peachpuff",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "peaksea",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pencil",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "penultimate",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "peppers",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "perfect",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "PerfectDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "petrel",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pf_earth",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "phd",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_phd"
+  },
+  {
+    "name": "phoenix",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "phphaxor",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "phpx",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "pink-moon",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pixelmuerto",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "plasticine",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "playroom",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pleasant",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "potts",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "predawn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "preto",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pride",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "primaries",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "primary",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "print_bw",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "prmths",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "professional",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "proton",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ps_color",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pspad",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pt_black",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -406,9 +5099,163 @@
     "airline": "purify"
   },
   {
+    "name": "putty",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "pw",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "py-darcula",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "pyte",
     "light": 1,
     "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "python",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "quagmire",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "quantum",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "radicalgoodspeed",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "raggi",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "railscasts",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_railscasts"
+  },
+  {
+    "name": "rainbow_autumn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rainbow_fine_blue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rainbow_fruit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rainbow_night",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rainbow_sea",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rakr",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rakr-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "random",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rastafari",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rcg_gui",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rcg_term",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rdark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rdark-terminal",
+    "light": 0,
+    "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
   },
@@ -420,6 +5267,132 @@
     "airline": ""
   },
   {
+    "name": "Red",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "redblack",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "redstring",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "refactor",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "relaxedgreen",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "reliable",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "reloaded",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Revolution",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "revolutions",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "robinhood",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rockets-away",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ron",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "rootwater",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sadek1",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sand",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sandydune",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "satori",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "saturn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "scheakur",
     "light": 0,
     "dark": 1,
@@ -427,11 +5400,60 @@
     "airline": ""
   },
   {
-    "name": "seoul256-light",
+    "name": "scite",
     "light": 1,
-    "dark": 0,
+    "dark": 1,
     "commandBeforeColo": "",
-    "airline": "seoul256"
+    "airline": ""
+  },
+  {
+    "name": "scooby",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "seagull",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sean",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "seashell",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "seattle",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "selenitic",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "seoul",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "seoul256",
@@ -441,11 +5463,235 @@
     "airline": "seoul256"
   },
   {
+    "name": "seoul256-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": "seoul256"
+  },
+  {
+    "name": "SerialExperimentsLain",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "seti",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_seti"
+  },
+  {
+    "name": "settlemyer",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sexy-railscasts",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sf",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "shades-of-teal",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "shadesofamber",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "shine",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "shiny-white",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "shobogenzo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sialoquent",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sienna",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "sierra",
     "light": 0,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "sierra"
+  },
+  {
+    "name": "sift",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "silent",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "simple256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "simple_b",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "simple_dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "simpleandfriendly",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "simplewhite",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "simplon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "skittles_autumn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "skittles_berry",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "skittles_dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sky",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Slate",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "slate2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "SlateDark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "smarties",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "smp",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "smpl",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "smyck",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "snow",
@@ -455,9 +5701,86 @@
     "airline": ""
   },
   {
-    "name": "solarized8",
+    "name": "soda",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "softblue",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "softbluev2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "softlight",
     "light": 1,
     "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sol",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sol-term",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "solarized",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_solarized"
+  },
+  {
+    "name": "solarized8",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "solarized8_dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "solarized"
+  },
+  {
+    "name": "solarized8_dark_flat",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "solarized"
+  },
+  {
+    "name": "solarized8_dark_high",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "solarized8_dark_low",
+    "light": 0,
+    "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
   },
@@ -466,10 +5789,38 @@
     "light": 1,
     "dark": 0,
     "commandBeforeColo": "",
-    "airline": ""
+    "airline": "solarized"
   },
   {
     "name": "solarized8_high",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": "solarized"
+  },
+  {
+    "name": "solarized8_light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": "solarized"
+  },
+  {
+    "name": "solarized8_light_flat",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "solarized8_light_high",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "solarized8_light_low",
     "light": 1,
     "dark": 0,
     "commandBeforeColo": "",
@@ -480,18 +5831,18 @@
     "light": 1,
     "dark": 0,
     "commandBeforeColo": "",
-    "airline": ""
+    "airline": "solarized"
   },
   {
-    "name": "solarized8_dark",
-    "light": 0,
+    "name": "sole",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
   },
   {
-    "name": "solarized8_dark_flat",
-    "light": 0,
+    "name": "sonofobsidian",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -502,6 +5853,55 @@
     "dark": 1,
     "commandBeforeColo": "",
     "airline": "sonokai"
+  },
+  {
+    "name": "sonoma",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sorcerer",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "soruby",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "soso",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sourcerer",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "southernlights",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "southwest-fog",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
     "name": "space-vim-dark",
@@ -525,6 +5925,104 @@
     "airline": ""
   },
   {
+    "name": "spacegray",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "spacemacs-theme",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "spartan",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "spectro",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "spiderhawk",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Spink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "spring",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "spring-night",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sprinkles",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "spurs_away",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "srcery",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "srcery-drk",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "stackoverflow",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "stefan",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "stellarized",
     "light": 0,
     "dark": 1,
@@ -532,8 +6030,239 @@
     "airline": ""
   },
   {
+    "name": "stereokai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "stingray",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "stonewashed-256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "stonewashed-dark-256",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "stonewashed-dark-gui",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "stonewashed-gui",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "stormpetrel",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "strange",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "strawimodo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "summerfruit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_summerfruit"
+  },
+  {
+    "name": "summerfruit256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "sunbather",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sunburst",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "surveyor",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "swamplight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "sweater",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "SweetCandy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "symfony",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "synic",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "synthwave",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tabula",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tango",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tango-desert",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tango-morning",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tango2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tangoshady",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tangoX",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "taqua",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tatami",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tayra",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tchaba",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tchaba2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tcsoft",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "telstar",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -553,8 +6282,246 @@
     "airline": ""
   },
   {
+    "name": "tesla",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tetragrammaton",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "textmate16",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "thegoodluck",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "thermopylae",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "thestars",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "thor",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "thornbird",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tibet",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tidy",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tigrana-256-dark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tigrana-256-light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tir_black",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tolerable",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tomatosoup",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Tomorrow",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_tomorrow"
+  },
+  {
+    "name": "Tomorrow-Night",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Tomorrow-Night-Blue",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Tomorrow-Night-Bright",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "Tomorrow-Night-Eighties",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tony_light",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "toothpik",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "torte",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "transparent",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "triplejelly",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "trivial256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "trogdor",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tropikos",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "true-monochrome",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "turbo",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "turtles",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "tutticolori",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "twilight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": "base16_twilight"
+  },
+  {
     "name": "twilight256",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "twitchy",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -567,8 +6534,470 @@
     "airline": ""
   },
   {
+    "name": "two2tango",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ubaryd",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "ubloh",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "umber-green",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "understated",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "underwater",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "underwater-mod",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "unicon",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "up",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "valloric",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vanzan_color",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vc",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vcbc",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vertLaiton",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vexorian",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vibrantink",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vice",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vilight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vim-material",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vimbrains",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vimbrant",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vimicks",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "visualstudio",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "VIvid",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vividchalk",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vj",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "void",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vorange",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vydark",
+    "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "vylight",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wargrey",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "warm_grey",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "warriors-away",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wasabi256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "watermark",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wellsokai",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "welpe",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "white",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "White2",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "whitebox",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "whitedust",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "widower",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wikipedia",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "win9xblueback",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "winter",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "winterd",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wintersday",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "woju",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wolfpack",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wombat",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wombat256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wombat256dave",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wombat256i",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
     "name": "wombat256mod",
     "light": 0,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wood",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wuye",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wwdc16",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "wwdc17",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "xcode",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "xcode-default",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "xedit",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "xemacs",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "xian",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "xmaslights",
+    "light": 1,
+    "dark": 0,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "xoria256",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "xterm16",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "yeller",
+    "light": 1,
     "dark": 1,
     "commandBeforeColo": "",
     "airline": ""
@@ -581,27 +7010,66 @@
     "airline": ""
   },
   {
-    "name": "ayu_light",
-    "override": "ayu",
+    "name": "yuejiu",
     "light": 1,
-    "dark": 0,
-    "airline": "ayu",
-    "commandBeforeColo": "let g:ayucolor=\"light\""
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
-    "name": "ayu_mirage",
-    "override": "ayu",
-    "light": 0,
+    "name": "zazen",
+    "light": 1,
     "dark": 1,
-    "airline": "ayu",
-    "commandBeforeColo": "let g:ayucolor=\"mirage\""
+    "commandBeforeColo": "",
+    "airline": ""
   },
   {
-    "name": "ayu_dark",
-    "override": "ayu",
-    "light": 0,
+    "name": "zellner",
+    "light": 1,
     "dark": 1,
-    "airline": "ayu",
-    "commandBeforeColo": "let g:ayucolor=\"dark\""
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "zen",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "zenburn",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": "base16_zenburn"
+  },
+  {
+    "name": "zenesque",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "zephyr",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "zmrok",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
+  },
+  {
+    "name": "znake",
+    "light": 1,
+    "dark": 1,
+    "commandBeforeColo": "",
+    "airline": ""
   }
 ]
