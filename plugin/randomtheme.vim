@@ -228,8 +228,12 @@ function! s:SetTheme(name, mode, ColorThemes)
 
       if airlineTheme !=# ''
         execute ':AirlineTheme '. airlineTheme
-      "else
-        "execute ':AirlineTheme random'
+      else
+          if a:mode ==# 'light' || a:mode ==# 'dark'
+            execute 'AirlineTheme ' . a:mode
+          else
+            execute ':AirlineTheme random'
+          endif
       endif
   endif
 endfunction
